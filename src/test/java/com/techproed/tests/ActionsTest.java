@@ -104,4 +104,7 @@ public class ActionsTest extends TestBase {
                 .keyDown(Keys.F4)
                 .perform();
     }
+
+    public static class GlbPantsTest {
+    }
 }
